@@ -7,7 +7,7 @@
     "color": "#FFD700",
     "theme": "dark"
   },
-  "icon": "images/YellowPillProgrammer.jpg",
+  "icon": "images/YellowPillProgrammer.png",
   "keywords": [
     "theme",
     "dark",
@@ -23,7 +23,7 @@
     "yppvscode",
     "ypp-vscode"
   ],
-  "version": "0.0.6",
+  "version": "0.0.7",
   "engines": {
     "vscode": "^1.104.0"
   },
