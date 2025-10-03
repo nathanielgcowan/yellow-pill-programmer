@@ -1,0 +1,42 @@
+{
+  "name": "yellow-pill-programmer",
+  "displayName": "Yellow Pill Programmer",
+  "description": "Nathaniel Cowan's personalVSCode theme.",
+  "publisher": "NathanielCowan",
+  "galleryBanner": {
+    "color": "#FFD700",
+    "theme": "dark"
+  },
+  "icon": "images/YellowPillProgrammer.jpg",
+  "keywords": [
+    "theme",
+    "dark",
+    "yellow",
+    "programmer",
+    "nathaniel cowan",
+    "yellow pill",
+    "yellowpill",
+    "yellowpillprogrammer",
+    "yellow-pill-programmer",
+    "ypp",
+    "ypp-theme",
+    "yppvscode",
+    "ypp-vscode"
+  ],
+  "version": "0.0.6",
+  "engines": {
+    "vscode": "^1.104.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Yellow Pill Programmer",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Yellow Pill Programmer-color-theme.json"
+      }
+    ]
+  }
+}
